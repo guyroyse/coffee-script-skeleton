@@ -1,1 +1,2 @@
-alert "test"
+this.add = (x, y) ->
+  x + y
